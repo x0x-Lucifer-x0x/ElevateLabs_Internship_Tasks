@@ -1,8 +1,6 @@
-Sure! Here's a complete and professional `README.md` file in Markdown format tailored to your **Real-Time Twitter Sentiment Analysis Dashboard** project:
 
----
 
-```markdown
+
 # 🧠 Real-Time Twitter Sentiment Analysis Dashboard
 
 This project is a real-time Twitter sentiment analyzer built with **Streamlit**, **Tweepy**, and **Scikit-learn**. It fetches live tweets based on user input, processes the text using a trained NLP model, and visualizes the sentiments (Positive/Negative) interactively.
@@ -44,7 +42,10 @@ project-root/
    ```bash
    git clone <your-repo-url>
    cd <your-repo-folder>
-````
+``
+
+---
+
 
 2. **Install Dependencies**
 
@@ -101,9 +102,3 @@ This project is licensed for educational and internship use only.
 
 **Meet Vachhani**
 
-```
-
----
-
-Let me know if you want a version that includes deployment instructions (e.g., Streamlit Cloud or Docker).
-```
